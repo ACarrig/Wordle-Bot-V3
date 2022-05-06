@@ -3,10 +3,9 @@ The third version of my wordle solving program
 
 This third version contains 4 new helper methods
   which contribute to picking a smarter first
-  guess, as well as to the new sub-case when
-  a word has non-unique charcaters.
+  guess, as well as to the new sub-case.
 
-It also has an added sub-case (in case 2)where 
+Added sub-case (in case 2) where 
   it will properly react when a guess 
   results in two of the same letters being 
   either yellow or green 
