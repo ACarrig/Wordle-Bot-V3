@@ -12,4 +12,5 @@ It also has an added sub-case (in case 2)where
   (word must have 2+ of that letter case)
 
 This version will also automatically end the
-  game after the 6th guess.
+  game after the 6th guess, or when only
+  1 or 0 possible guesses remain.
