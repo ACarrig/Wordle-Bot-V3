@@ -1,5 +1,6 @@
 # Wordle-Bot-V3
 The third version of my wordle solving program
+
 This third version contains 4 new helper methods
   which contribute to picking a smarter first
   guess, as well as to the new sub-case when
