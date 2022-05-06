@@ -1,7 +1,15 @@
 # Wordle-Bot-V3
 The third version of my wordle solving program
-This third version now chooses a smart first guess
-It also has an added case where it will properly 
-  react when a guess results in two of the same 
-  letters being either yellow or green 
+This third version contains 4 new helper methods
+  which contribute to picking a smarter first
+  guess, as well as to the new sub-case when
+  a word has non-unique charcaters.
+
+It also has an added sub-case (in case 2)where 
+  it will properly react when a guess 
+  results in two of the same letters being 
+  either yellow or green 
   (word must have 2+ of that letter case)
+
+This version will also automatically end the
+  game after the 6th guess.
