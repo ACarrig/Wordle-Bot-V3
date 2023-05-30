@@ -12,7 +12,7 @@ public class BotV3 {
    */
   public static void main(String[] args) {
     ArrayList<String> wordList = new ArrayList<>(16500);
-    File file = new File("/Users/acarrig/CompSciStuff/GetWords/wordle.txt");
+    File file = new File("file-path-to-wordList-file");
     Scanner scnr;
 
     try {
